@@ -1,2 +1,2 @@
 # django-dockerized-demo
-This is the demon for dockerized django application
+This is the demo for dockerized django application
